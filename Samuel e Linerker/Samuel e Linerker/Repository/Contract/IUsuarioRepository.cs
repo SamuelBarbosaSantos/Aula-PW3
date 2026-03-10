@@ -14,8 +14,5 @@ namespace Samuel_e_Linerker.Repository.Contract
         Usuario ObterUsuario(int id);
 
         void Excluir(int id);
-
-
-
     }
 }

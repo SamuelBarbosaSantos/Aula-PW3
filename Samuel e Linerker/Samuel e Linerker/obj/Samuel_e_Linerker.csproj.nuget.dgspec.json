@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\3MTEC\\Desktop\\Samuel e Lineker\\Samuel e Linerker\\Samuel e Linerker\\Samuel_e_Linerker.csproj": {}
+    "C:\\Users\\3MTEC\\Desktop\\pw\\Aula-PW3\\Samuel e Linerker\\Samuel e Linerker\\Samuel_e_Linerker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\3MTEC\\Desktop\\Samuel e Lineker\\Samuel e Linerker\\Samuel e Linerker\\Samuel_e_Linerker.csproj": {
+    "C:\\Users\\3MTEC\\Desktop\\pw\\Aula-PW3\\Samuel e Linerker\\Samuel e Linerker\\Samuel_e_Linerker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\3MTEC\\Desktop\\Samuel e Lineker\\Samuel e Linerker\\Samuel e Linerker\\Samuel_e_Linerker.csproj",
+        "projectUniqueName": "C:\\Users\\3MTEC\\Desktop\\pw\\Aula-PW3\\Samuel e Linerker\\Samuel e Linerker\\Samuel_e_Linerker.csproj",
         "projectName": "Samuel_e_Linerker",
-        "projectPath": "C:\\Users\\3MTEC\\Desktop\\Samuel e Lineker\\Samuel e Linerker\\Samuel e Linerker\\Samuel_e_Linerker.csproj",
+        "projectPath": "C:\\Users\\3MTEC\\Desktop\\pw\\Aula-PW3\\Samuel e Linerker\\Samuel e Linerker\\Samuel_e_Linerker.csproj",
         "packagesPath": "C:\\Users\\3MTEC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\3MTEC\\Desktop\\Samuel e Lineker\\Samuel e Linerker\\Samuel e Linerker\\obj\\",
+        "outputPath": "C:\\Users\\3MTEC\\Desktop\\pw\\Aula-PW3\\Samuel e Linerker\\Samuel e Linerker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,6 +50,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.23, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.6.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

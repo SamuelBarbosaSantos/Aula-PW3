@@ -1,7 +1,12 @@
+using Samuel_e_Linerker.Repository;
+using Samuel_e_Linerker.Repository.Contract;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddScoped<IUsuarioRepository,UsuarioRepository>();
 
 var app = builder.Build();
 

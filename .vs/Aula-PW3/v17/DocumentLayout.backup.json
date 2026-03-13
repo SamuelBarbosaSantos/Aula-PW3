@@ -54,7 +54,8 @@
               "RelativeToolTip": "Samuel e Linerker\\Samuel e Linerker\\Views\\Usuario\\CadastrarUsuario.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-13T12:09:19.578Z"
+              "WhenOpened": "2026-03-13T12:09:19.578Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -79,7 +80,8 @@
               "RelativeToolTip": "Samuel e Linerker\\Samuel e Linerker\\Samuel_e_Linerker.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-13T12:08:27.944Z"
+              "WhenOpened": "2026-03-13T12:08:27.944Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -91,7 +93,8 @@
               "RelativeToolTip": "Samuel e Linerker\\Samuel e Linerker\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T12:08:37.779Z"
+              "WhenOpened": "2026-03-13T12:08:37.779Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -103,7 +106,8 @@
               "RelativeToolTip": "Samuel e Linerker\\Samuel e Linerker\\Controllers\\UsuarioController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T12:08:35.747Z"
+              "WhenOpened": "2026-03-13T12:08:35.747Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -115,7 +119,8 @@
               "RelativeToolTip": "Samuel e Linerker\\Samuel e Linerker\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T12:08:34.956Z"
+              "WhenOpened": "2026-03-13T12:08:34.956Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -127,7 +132,8 @@
               "RelativeToolTip": "Samuel e Linerker\\Samuel e Linerker\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T12:08:24.988Z"
+              "WhenOpened": "2026-03-13T12:08:24.988Z",
+              "EditorCaption": ""
             }
           ]
         }

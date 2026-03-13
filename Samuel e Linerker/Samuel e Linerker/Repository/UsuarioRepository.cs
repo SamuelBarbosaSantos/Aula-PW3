@@ -29,7 +29,7 @@ namespace Samuel_e_Linerker.Repository
 
                 cmd.Parameters.Add("@nomeUsu", MySqlDbType.VarChar).Value = usuario.nomeUsu;
                 cmd.Parameters.Add("@Cargo", MySqlDbType.VarChar).Value = usuario.Cargo;
-                cmd.Parameters.Add("@DataNasc", MySqlDbType.VarChar).Value = usuario.DataNasc;
+                cmd.Parameters.Add("@DataNasc", MySqlDbType.Date).Value = usuario.DataNasc;
 
                 cmd.ExecuteNonQuery();
                 conexao.Close();

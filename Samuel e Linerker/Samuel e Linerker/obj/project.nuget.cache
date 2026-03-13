@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uAWicWwL284=",
+  "dgSpecHash": "IUlJEGP2Ylk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\3MTEC\\Desktop\\pw\\Aula-PW3\\Samuel e Linerker\\Samuel e Linerker\\Samuel_e_Linerker.csproj",
+  "projectFilePath": "C:\\Users\\3MTEC\\Desktop\\Aula-PW3\\Samuel e Linerker\\Samuel e Linerker\\Samuel_e_Linerker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\3MTEC\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
     "C:\\Users\\3MTEC\\.nuget\\packages\\google.protobuf\\3.32.0\\google.protobuf.3.32.0.nupkg.sha512",

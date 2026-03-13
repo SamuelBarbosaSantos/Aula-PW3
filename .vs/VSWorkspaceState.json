@@ -1,7 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Samuel e Linerker"
+    "\\Samuel e Linerker",
+    "\\Samuel e Linerker\\Samuel e Linerker",
+    "\\Samuel e Linerker\\Samuel e Linerker\\Controllers",
+    "\\Samuel e Linerker\\Samuel e Linerker\\Models",
+    "\\Samuel e Linerker\\Samuel e Linerker\\Views",
+    "\\Samuel e Linerker\\Samuel e Linerker\\Views\\Usuario"
   ],
+  "SelectedNode": "\\Samuel e Linerker\\Samuel e Linerker\\Views\\Usuario\\CadastrarUsuario.cshtml",
   "PreviewInSolutionExplorer": false
 }

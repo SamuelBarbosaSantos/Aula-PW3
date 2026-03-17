@@ -38,24 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CadastrarUsuario.cshtml",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Aula-PW3\\Samuel e Linerker\\Samuel e Linerker\\Views\\Usuario\\CadastrarUsuario.cshtml",
-              "RelativeDocumentMoniker": "Samuel e Linerker\\Views\\Usuario\\CadastrarUsuario.cshtml",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Aula-PW3\\Samuel e Linerker\\Samuel e Linerker\\Views\\Usuario\\CadastrarUsuario.cshtml",
-              "RelativeToolTip": "Samuel e Linerker\\Views\\Usuario\\CadastrarUsuario.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAABsAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-10T12:19:52.681Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -68,6 +55,32 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T11:56:26.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Aula-PW3\\Samuel e Linerker\\Samuel e Linerker\\appsettings.json",
+              "RelativeDocumentMoniker": "Samuel e Linerker\\appsettings.json",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Aula-PW3\\Samuel e Linerker\\Samuel e Linerker\\appsettings.json",
+              "RelativeToolTip": "Samuel e Linerker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-06T12:28:55.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CadastrarUsuario.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Aula-PW3\\Samuel e Linerker\\Samuel e Linerker\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "RelativeDocumentMoniker": "Samuel e Linerker\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Aula-PW3\\Samuel e Linerker\\Samuel e Linerker\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "RelativeToolTip": "Samuel e Linerker\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T12:19:52.681Z",
               "EditorCaption": ""
             },
             {
@@ -120,19 +133,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-06T13:07:15.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Aula-PW3\\Samuel e Linerker\\Samuel e Linerker\\appsettings.json",
-              "RelativeDocumentMoniker": "Samuel e Linerker\\appsettings.json",
-              "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Aula-PW3\\Samuel e Linerker\\Samuel e Linerker\\appsettings.json",
-              "RelativeToolTip": "Samuel e Linerker\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-06T12:28:55.097Z",
               "EditorCaption": ""
             }
           ]

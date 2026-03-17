@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\3MTEC\\Desktop\\Aula-PW3\\Samuel e Linerker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E0E7C71-6B11-422E-BC13-F00F4480DE7B}|Samuel e Linerker\\Samuel_e_Linerker.csproj|c:\\users\\3mtec\\desktop\\aula-pw3\\samuel e linerker\\samuel e linerker\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E0E7C71-6B11-422E-BC13-F00F4480DE7B}|Samuel e Linerker\\Samuel_e_Linerker.csproj|solutionrelative:samuel e linerker\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E0E7C71-6B11-422E-BC13-F00F4480DE7B}|Samuel e Linerker\\Samuel_e_Linerker.csproj|c:\\users\\3mtec\\desktop\\aula-pw3\\samuel e linerker\\samuel e linerker\\views\\usuario\\cadastrarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4E0E7C71-6B11-422E-BC13-F00F4480DE7B}|Samuel e Linerker\\Samuel_e_Linerker.csproj|solutionrelative:samuel e linerker\\views\\usuario\\cadastrarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E0E7C71-6B11-422E-BC13-F00F4480DE7B}|Samuel e Linerker\\Samuel_e_Linerker.csproj|c:\\users\\3mtec\\desktop\\aula-pw3\\samuel e linerker\\samuel e linerker\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E0E7C71-6B11-422E-BC13-F00F4480DE7B}|Samuel e Linerker\\Samuel_e_Linerker.csproj|solutionrelative:samuel e linerker\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E0E7C71-6B11-422E-BC13-F00F4480DE7B}|Samuel e Linerker\\Samuel_e_Linerker.csproj|c:\\users\\3mtec\\desktop\\aula-pw3\\samuel e linerker\\samuel e linerker\\repository\\contract\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E0E7C71-6B11-422E-BC13-F00F4480DE7B}|Samuel e Linerker\\Samuel_e_Linerker.csproj|solutionrelative:samuel e linerker\\repository\\contract\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E0E7C71-6B11-422E-BC13-F00F4480DE7B}|Samuel e Linerker\\Samuel_e_Linerker.csproj|c:\\users\\3mtec\\desktop\\aula-pw3\\samuel e linerker\\samuel e linerker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E0E7C71-6B11-422E-BC13-F00F4480DE7B}|Samuel e Linerker\\Samuel_e_Linerker.csproj|solutionrelative:samuel e linerker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E0E7C71-6B11-422E-BC13-F00F4480DE7B}|Samuel e Linerker\\Samuel_e_Linerker.csproj|c:\\users\\3mtec\\desktop\\aula-pw3\\samuel e linerker\\samuel e linerker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E0E7C71-6B11-422E-BC13-F00F4480DE7B}|Samuel e Linerker\\Samuel_e_Linerker.csproj|solutionrelative:samuel e linerker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E0E7C71-6B11-422E-BC13-F00F4480DE7B}|Samuel e Linerker\\Samuel_e_Linerker.csproj|c:\\users\\3mtec\\desktop\\aula-pw3\\samuel e linerker\\samuel e linerker\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E0E7C71-6B11-422E-BC13-F00F4480DE7B}|Samuel e Linerker\\Samuel_e_Linerker.csproj|solutionrelative:samuel e linerker\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E0E7C71-6B11-422E-BC13-F00F4480DE7B}|Samuel e Linerker\\Samuel_e_Linerker.csproj|c:\\users\\3mtec\\desktop\\aula-pw3\\samuel e linerker\\samuel e linerker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4E0E7C71-6B11-422E-BC13-F00F4480DE7B}|Samuel e Linerker\\Samuel_e_Linerker.csproj|solutionrelative:samuel e linerker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{4E0E7C71-6B11-422E-BC13-F00F4480DE7B}|Samuel e Linerker\\Samuel_e_Linerker.csproj|c:\\users\\3mtec\\desktop\\aula-pw3\\samuel e linerker\\samuel e linerker\\repository\\contract\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0E7C71-6B11-422E-BC13-F00F4480DE7B}|Samuel e Linerker\\Samuel_e_Linerker.csproj|solutionrelative:samuel e linerker\\repository\\contract\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0E7C71-6B11-422E-BC13-F00F4480DE7B}|Samuel e Linerker\\Samuel_e_Linerker.csproj|c:\\users\\3mtec\\desktop\\aula-pw3\\samuel e linerker\\samuel e linerker\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0E7C71-6B11-422E-BC13-F00F4480DE7B}|Samuel e Linerker\\Samuel_e_Linerker.csproj|solutionrelative:samuel e linerker\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0E7C71-6B11-422E-BC13-F00F4480DE7B}|Samuel e Linerker\\Samuel_e_Linerker.csproj|c:\\users\\3mtec\\desktop\\aula-pw3\\samuel e linerker\\samuel e linerker\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0E7C71-6B11-422E-BC13-F00F4480DE7B}|Samuel e Linerker\\Samuel_e_Linerker.csproj|solutionrelative:samuel e linerker\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0E7C71-6B11-422E-BC13-F00F4480DE7B}|Samuel e Linerker\\Samuel_e_Linerker.csproj|c:\\users\\3mtec\\desktop\\aula-pw3\\samuel e linerker\\samuel e linerker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0E7C71-6B11-422E-BC13-F00F4480DE7B}|Samuel e Linerker\\Samuel_e_Linerker.csproj|solutionrelative:samuel e linerker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0E7C71-6B11-422E-BC13-F00F4480DE7B}|Samuel e Linerker\\Samuel_e_Linerker.csproj|c:\\users\\3mtec\\desktop\\aula-pw3\\samuel e linerker\\samuel e linerker\\views\\usuario\\cadastrarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E0E7C71-6B11-422E-BC13-F00F4480DE7B}|Samuel e Linerker\\Samuel_e_Linerker.csproj|solutionrelative:samuel e linerker\\views\\usuario\\cadastrarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,68 +46,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "CadastrarUsuario.cshtml",
               "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Aula-PW3\\Samuel e Linerker\\Samuel e Linerker\\Views\\Usuario\\CadastrarUsuario.cshtml",
               "RelativeDocumentMoniker": "Samuel e Linerker\\Views\\Usuario\\CadastrarUsuario.cshtml",
               "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Aula-PW3\\Samuel e Linerker\\Samuel e Linerker\\Views\\Usuario\\CadastrarUsuario.cshtml",
               "RelativeToolTip": "Samuel e Linerker\\Views\\Usuario\\CadastrarUsuario.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-10T12:19:52.681Z"
+              "WhenOpened": "2026-03-10T12:19:52.681Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Aula-PW3\\Samuel e Linerker\\Samuel e Linerker\\Program.cs",
               "RelativeDocumentMoniker": "Samuel e Linerker\\Program.cs",
               "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Aula-PW3\\Samuel e Linerker\\Samuel e Linerker\\Program.cs",
               "RelativeToolTip": "Samuel e Linerker\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T11:56:26.77Z"
+              "WhenOpened": "2026-03-10T11:56:26.77Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Aula-PW3\\Samuel e Linerker\\Samuel e Linerker\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "Samuel e Linerker\\Controllers\\UsuarioController.cs",
               "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Aula-PW3\\Samuel e Linerker\\Samuel e Linerker\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "Samuel e Linerker\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T11:56:00.325Z"
+              "WhenOpened": "2026-03-10T11:56:00.325Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "UsuarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Aula-PW3\\Samuel e Linerker\\Samuel e Linerker\\Repository\\UsuarioRepository.cs",
               "RelativeDocumentMoniker": "Samuel e Linerker\\Repository\\UsuarioRepository.cs",
               "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Aula-PW3\\Samuel e Linerker\\Samuel e Linerker\\Repository\\UsuarioRepository.cs",
               "RelativeToolTip": "Samuel e Linerker\\Repository\\UsuarioRepository.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAqwDMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T11:16:58.409Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "IUsuarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Aula-PW3\\Samuel e Linerker\\Samuel e Linerker\\Repository\\Contract\\IUsuarioRepository.cs",
               "RelativeDocumentMoniker": "Samuel e Linerker\\Repository\\Contract\\IUsuarioRepository.cs",
               "ToolTip": "C:\\Users\\3MTEC\\Desktop\\Aula-PW3\\Samuel e Linerker\\Samuel e Linerker\\Repository\\Contract\\IUsuarioRepository.cs",
               "RelativeToolTip": "Samuel e Linerker\\Repository\\Contract\\IUsuarioRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T13:25:12.79Z"
+              "WhenOpened": "2026-03-06T13:25:12.79Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Aula-PW3\\Samuel e Linerker\\Samuel e Linerker\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "Samuel e Linerker\\Models\\Usuario.cs",
@@ -115,11 +119,12 @@
               "RelativeToolTip": "Samuel e Linerker\\Models\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T13:07:15.444Z"
+              "WhenOpened": "2026-03-06T13:07:15.444Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\3MTEC\\Desktop\\Aula-PW3\\Samuel e Linerker\\Samuel e Linerker\\appsettings.json",
               "RelativeDocumentMoniker": "Samuel e Linerker\\appsettings.json",
@@ -127,7 +132,8 @@
               "RelativeToolTip": "Samuel e Linerker\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-06T12:28:55.097Z"
+              "WhenOpened": "2026-03-06T12:28:55.097Z",
+              "EditorCaption": ""
             }
           ]
         }

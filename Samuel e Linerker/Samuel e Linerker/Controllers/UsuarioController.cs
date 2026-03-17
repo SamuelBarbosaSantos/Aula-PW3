@@ -15,7 +15,7 @@ namespace Samuel_e_Linerker.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            return View(_usuarioRepository.ObterTodosUsuarios());
         }
 
         [HttpGet]

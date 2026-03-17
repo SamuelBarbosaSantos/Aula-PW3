@@ -5,7 +5,7 @@ namespace Samuel_e_Linerker.Repository.Contract
     public interface IUsuarioRepository
     {
         //CRUD
-        IEnumerable <Usuario> ObterTododsUsarios();
+        IEnumerable<Usuario> ObterTodosUsuarios();
 
         void Cadastrar(Usuario usuario);
 

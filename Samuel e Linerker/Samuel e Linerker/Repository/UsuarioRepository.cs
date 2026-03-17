@@ -1,6 +1,7 @@
 ﻿using MySql.Data.MySqlClient;
 using Samuel_e_Linerker.Models;
 using Samuel_e_Linerker.Repository.Contract;
+using System.Data;
 
 namespace Samuel_e_Linerker.Repository
 {
@@ -41,9 +42,34 @@ namespace Samuel_e_Linerker.Repository
             throw new NotImplementedException();
         }
 
-        public IEnumerable<Usuario> ObterTododsUsarios()
+        public IEnumerable<Usuario> ObterTodosUsuarios()
         {
-            throw new NotImplementedException();
+            List<Usuario> UsuarioList = new List<Usuario>();
+            using (var conexao = new MySqlConnection(_conexaoMySQL))
+            {
+                conexao.Open();
+                MySqlCommand cmd = new MySqlCommand("Select * from usuario", conexao);
+
+                MySqlDataAdapter da = new MySqlDataAdapter(cmd);
+                DataTable dt = new DataTable();
+                da.Fill(dt);
+
+                conexao.Clone();
+
+                foreach (DataRow dr in dt.Rows)
+                {
+                    UsuarioList.Add(
+                        new Usuario
+                        {
+                            IdUsu = Convert.ToInt32(dr["IdUsu"]),
+                            nomeUsu = (string)dr["nomeUsu"],
+                            Cargo = (string)dr["Cargo"],
+                            DataNasc = Convert.ToDateTime(dr["DataNasc"])
+                        });
+                }
+
+                return UsuarioList;
+            }
         }
 
         public Usuario ObterUsuario(int id)

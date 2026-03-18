@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Samuel_e_Linerker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1260658a55842d470cc85ffdab9ea2c92393288")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d397fa84c8af0140df0be2516f1556aebbc5ef0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Samuel_e_Linerker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Samuel_e_Linerker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

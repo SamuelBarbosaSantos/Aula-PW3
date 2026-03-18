@@ -9,39 +9,24 @@
 <p>
     <a class="btn btn-primary" asp-action="CadastrarUsuario" asp-controller="Usuario">Cadastrar</a>
 </p>
-<table class="table">
+<div class="table-responsive">
+<table class="table table-bordered">
     <thead>
         <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.IdUsu)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.nomeUsu)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.Cargo)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.DataNasc)
-            </th>
-            <th></th>
+            <th scope="col">@Html.DisplayNameFor(Model => Model.IdUsu)</th>
+            <th scope="col">@Html.DisplayNameFor(Model => Model.nomeUsu)</th>
+            <th scope="col">@Html.DisplayNameFor(Model => Model.Cargo)</th>
+            <th scope="col">@Html.DisplayNameFor(Model => Model.DataNasc)</th>
+            <th scope="col">Ação</th>
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
+@foreach (Usuario usuario in Model) {
         <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.IdUsu)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.nomeUsu)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Cargo)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.DataNasc)
-            </td>
+            <td>@usuario.IdUsu</td>
+            <td>@usuario.nomeUsu</td>
+            <td>@usuario.Cargo</td>
+            <td>@usuario.DataNasc.ToString("dd/mm/yyyy")</td>
             <td>
                 @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
                 @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
@@ -50,4 +35,6 @@
         </tr>
 }
     </tbody>
-</table>
+
+  </table>
+</div>

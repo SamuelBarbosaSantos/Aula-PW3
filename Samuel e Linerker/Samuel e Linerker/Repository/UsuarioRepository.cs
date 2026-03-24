@@ -25,12 +25,13 @@ namespace Samuel_e_Linerker.Repository
             {
                 conexao.Open();
 
-                MySqlCommand cmd = new MySqlCommand("insert into usuario(nomeUsu, Cargo, DataNasc)" +
-                                                                "values (@nomeUsu, @Cargo, @DataNasc)", conexao);
+                MySqlCommand cmd = new MySqlCommand("Update usuario set nomeUsu=@nomeUsu, Cargo=@Cargo, " +
+                                                     "DataNasc=@DataNasc Where IdUsu=@IdUsu;", conexao);
 
                 cmd.Parameters.Add("@nomeUsu", MySqlDbType.VarChar).Value = usuario.nomeUsu;
                 cmd.Parameters.Add("@Cargo", MySqlDbType.VarChar).Value = usuario.Cargo;
-                cmd.Parameters.Add("@DataNasc", MySqlDbType.Date).Value = usuario.DataNasc;
+                cmd.Parameters.Add("@DataNasc", MySqlDbType.Date).Value = usuario.DataNasc.ToString("yyyy/MM/dd");
+                cmd.Parameters.Add("@IdUsu", MySqlDbType.VarChar).Value = usuario.IdUsu;
 
                 cmd.ExecuteNonQuery();
                 conexao.Close();

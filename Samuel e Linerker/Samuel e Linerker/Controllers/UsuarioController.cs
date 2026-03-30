@@ -47,11 +47,23 @@ namespace Samuel_e_Linerker.Controllers
             _usuarioRepository.Atualizar(usuario);
             return RedirectToAction(nameof(Index));
         }
+
         public IActionResult ExcluirUsuario(int id)
         {
             _usuarioRepository.Excluir(id);
             return RedirectToAction(nameof(Index));
         }
+        [HttpGet]
+        public IActionResult DetalharUsuario(int id)
+        {
+            return View(_usuarioRepository.ObterUsuario(id));
+        }
 
+        [HttpPost]
+        public IActionResult DetalharUsuario(Usuario usuario)
+        {
+            _usuarioRepository.Atualizar(usuario);
+            return RedirectToAction(nameof(Index));
+        }
     }
 }

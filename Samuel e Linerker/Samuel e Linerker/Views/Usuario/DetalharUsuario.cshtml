@@ -1,0 +1,33 @@
+﻿@model Samuel_e_Linerker.Models.Usuario
+
+@{
+    ViewData["Title"] = "DetalharUsuario";
+}
+
+<h1>Detalhar Usuario</h1>
+
+<div>
+    <h4>Usuario</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">@Html.DisplayNameFor(Model => Model.IdUsu)</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(Model => Model.IdUsu)</dd>
+
+        <dt class="col-sm-2">@Html.DisplayNameFor(Model => Model.nomeUsu)</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(Model => Model.nomeUsu)</dd>
+
+        <dt class="col-sm-2">@Html.DisplayNameFor(Model => Model.Cargo)</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(Model => Model.Cargo)</dd>
+
+        <dt class="col-sm-2">@Html.DisplayNameFor(Model => Model.DataNasc)</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(Model => Model.DataNasc)</dd>
+    </dl>
+</div>
+<div>
+    <button type="button" class="btn btn-warning">
+        @Html.ActionLink("Editar", "AtualizarUsuario", new {id = Model.IdUsu})
+    </button>
+    <button type="button" class="btn btn-secondary">
+        @Html.ActionLink("Voltar", "Index")
+    </button>
+</div>
